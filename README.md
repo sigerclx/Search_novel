@@ -10,11 +10,9 @@
 ```
     search.exe -name 飘邈之旅 -list y 
     上述命令行的意思是， 搜索下载“飘邈之旅”的小说，-list y的意思是要单独生成章节文件，默认是不生成的。
-```  
 
 
-```
-    [setall]
+[setall]
 xiaoshuo1 = 重生完美时代
 小说名称 = 恋上青春期
 allsearchnum = 3
